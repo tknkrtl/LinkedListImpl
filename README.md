@@ -1,1 +1,1 @@
-# LinkedListImpl
+Simple LinkedList class implementation
